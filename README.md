@@ -1368,7 +1368,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 # 🌐 List of Google Chrome Extensions
 
 [🔝 Back to Top](#top)
-- [AI Lab](https://ailab.packscena.com/) - Chinese utility hub with browser image compression and AI-assisted creative tools; advanced modes require sign-in and points.
+- [AI Lab](https://ailab.packscena.com/) - Chinese browser utilities for images, documents, files and text; basic image compression is free, while advanced compression requires sign-in and points.
 
 ## AI-Focused Extensions
 
