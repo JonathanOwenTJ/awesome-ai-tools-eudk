@@ -1426,6 +1426,7 @@ The following are online platforms where you can rent GPU resources, ideal for r
 18. **[Data Science Central](https://www.datasciencecentral.com/)**
 19. **[The AI Blog by Microsoft](https://blogs.microsoft.com/ai/)**
 20. **[DeepMind Blog](https://deepmind.com/blog)**
+21. [Ajun Industry — RAG versus fine-tuning (Chinese guide)](https://ajun-industry.packscena.com/guides/rag-vs-fine-tuning/) - Introductory reading on retrieval versus parameter updates, with hypothetical use cases and checks for permissions, sources and evaluation.
 
 ---
 
